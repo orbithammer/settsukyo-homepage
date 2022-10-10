@@ -82,6 +82,7 @@ p {
 .guide {
     background-color: #fff0f3;
     display: flex;
+    justify-content: center;
 }
 
 .guide--card {
